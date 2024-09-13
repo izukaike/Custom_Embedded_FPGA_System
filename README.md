@@ -6,7 +6,8 @@
 </div>
 
 # Program Counter
-![image](https://github.com/user-attachments/assets/bc6bf630-7eac-4792-8bf4-c31800dd5e59)
+<img align="middle" alt="Java" width="490px" height="350px" " src="https://github.com/user-attachments/assets/e84dac18-cf48-40c5-bbc6-beba34a6e512"/>
+
    
     `include "definitions.vh"
     module register(
