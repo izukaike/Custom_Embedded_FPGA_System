@@ -1,7 +1,21 @@
 # CompOrg_ARM_Processor_Project
 64-Bit ARM Processor In a HDL
 
-<img align="middle" alt="Java" width="490px" height="350px;" src="https://github.com/user-attachments/assets/865e264c-a4e5-4c0f-a108-eae295db90f5"/>
+<img align="middle" alt="Java" width="490px" height="350px" src="https://github.com/user-attachments/assets/865e264c-a4e5-4c0f-a108-eae295db90f5"/>
+
+#Adder
+<img align="middle" alt="Java" width="490px" height="350px" src="https://github.com/user-attachments/assets/a2224ca3-151d-4e10-a6e9-98754c971059"/>
+     
+      module adder(
+          input  [64-1:0] a_in,
+          input  [64-1:0] b_in,
+          output [64-1:0] add_out
+          );
+          
+      assign add_out = a_in + b_in;
+      endmodule
+
+
 
 # Program Counter
 <img align="middle" alt="Java" width="490px" height="350px" src="https://github.com/user-attachments/assets/e84dac18-cf48-40c5-bbc6-beba34a6e512"/>
