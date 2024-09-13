@@ -23,25 +23,28 @@
     endmodule
 # Instruction Memory
 <img align="middle" alt="Java" width="490px" height="350px" src="https://github.com/user-attachments/assets/eb80d6c3-5f13-41a6-93d0-dd7cce7b9296"/>
-   `include "definitions.vh"
-   module instr_mem#(
-       parameter SIZE=1024)(
-       input wire clk,
-       input wire[`WORD-1:0] pc,
-       output reg[`INSTR_LEN-1:0] instruction
-       );
-   	 // TODO: create imem array here
-   	 reg[`INSTR_LEN-1:0] imem [SIZE-1:0];
-       
-   	 // TODO: insert code here to fetch the correct
-       //initialize memory from file
-       initial
-           $readmemh(`IMEMFILE, imem);
-       
-       always @(posedge(clk)) begin
-              instruction <= imem[pc/4];
-       end
-    endmodule
+   
+   
+   
+      `include "definitions.vh"
+      module instr_mem#(
+          parameter SIZE=1024)(
+          input wire clk,
+          input wire[`WORD-1:0] pc,
+          output reg[`INSTR_LEN-1:0] instruction
+          );
+      	 // TODO: create imem array here
+      	 reg[`INSTR_LEN-1:0] imem [SIZE-1:0];
+          
+      	 // TODO: insert code here to fetch the correct
+          //initialize memory from file
+          initial
+              $readmemh(`IMEMFILE, imem);
+          
+          always @(posedge(clk)) begin
+                 instruction <= imem[pc/4];
+          end
+       endmodule
    
 
 
