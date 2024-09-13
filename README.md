@@ -5,7 +5,7 @@
   <img align="middle" alt="Java" width="490px" height="350px" " src="https://github.com/user-attachments/assets/865e264c-a4e5-4c0f-a108-eae295db90f5"/>
 </div>
 
-##Program Counter
+# Program Counter
 ![image](https://github.com/user-attachments/assets/bc6bf630-7eac-4792-8bf4-c31800dd5e59)
    
     `include "definitions.vh"
