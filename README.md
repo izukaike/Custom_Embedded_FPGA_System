@@ -61,7 +61,7 @@
        endmodule
    
 # Full Fetch Stage 
-<img align="middle" alt="Java" width="490px" height="600px" src="https://github.com/user-attachments/assets/933a462f-5f76-4ba2-8644-0317bf8eb2bd"/>
+<img align="middle" alt="Java" width="400px" height="500px" src="https://github.com/user-attachments/assets/933a462f-5f76-4ba2-8644-0317bf8eb2bd"/>
      
      module iFetch#(
          parameter SIZE=16)(
