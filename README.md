@@ -4,6 +4,9 @@
 As a computer engineer I think its essential that I know how design computers from the ground up. Where computing hardware engineering is today, I think that a 64-bit RISC design is essential because of my interest in embedded systems and the industry shift to reduced instruction set architecture computing systems. Here is my journey!
 
 <img align="middle" alt="Java" width="490px" height="350px" src="https://github.com/user-attachments/assets/865e264c-a4e5-4c0f-a108-eae295db90f5"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/865e264c-a4e5-4c0f-a108-eae295db90f5" alt="Image Description" width="400" height="300">
+</p>
 
 # Adder
 <img align="middle" alt="Java" width="490px" height="350px" src="https://github.com/user-attachments/assets/a2224ca3-151d-4e10-a6e9-98754c971059"/>
