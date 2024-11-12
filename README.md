@@ -8,9 +8,10 @@ As a computer engineering student I wanted to follow my curiosity and get more h
 <p align="center">
   <img align="middle" alt="Java" width="750px" height="160px"src="https://github.com/user-attachments/assets/ca5eb641-1744-4098-b253-c763b970b78f">
 </p>
-## Features
-   - 64-Bit ARM Processor
-   - Assembler
+
+# Features
+- 64-Bit ARM Processor
+- Assembler
 ## To Do
   * Finalize Sensor Design
   * Finish Memory Block
