@@ -8,7 +8,7 @@ As a computer engineering student I wanted to follow my curiosity and get more h
   <img align="middle" alt="Java" width="750px" height="160px"src="https://github.com/user-attachments/assets/ca5eb641-1744-4098-b253-c763b970b78f">
 </p>
 <p align="center">
-  <img align="middle" alt="Java" width="750px" height="160px"src="https://github.com/user-attachments/assets/18400c5b-2af1-4754-acff-1d11ac461328">
+  <img align="middle" alt="Java" width="300px" height="250px"src="https://github.com/user-attachments/assets/18400c5b-2af1-4754-acff-1d11ac461328">
 </p>
 
 
