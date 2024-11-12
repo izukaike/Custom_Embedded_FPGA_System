@@ -2,9 +2,7 @@
 64-Bit ARM Processor
 
 As a computer engineering student I wanted to follow my curiosity and get more hardware experience and dive into the details of digital design. I am building a compiler, processor, and sensor interface in C++, Python, and SystemVerilog.As I dive deeper and get more interested in hardware design from my Computer Organization and Advanced Digital Logic classs at Baylor University I want to apply my knowledge and enjoy the process. I think that a 64-bit RISC design is important in many hardware engineering applications. Here is my journey!
-- Main bullet point
-  - Indented bullet point
-    - Further indented bullet point
+
 <p align="center">
   <img align="middle" alt="Java" width="750px" height="160px"src="https://github.com/user-attachments/assets/ca5eb641-1744-4098-b253-c763b970b78f">
 </p>
