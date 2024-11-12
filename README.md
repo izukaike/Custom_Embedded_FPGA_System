@@ -15,6 +15,7 @@ As a computer engineering student I wanted to follow my curiosity and get more h
   * Finalize Sensor Design
   * Finish Memory Block
   * Start Custom Compiler Based Off Of C++
+  * Pipeline The Design
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/865e264c-a4e5-4c0f-a108-eae295db90f5" alt="Image Description" width="490" height="350">
