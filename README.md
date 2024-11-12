@@ -1,9 +1,11 @@
 # 64-Bit ARM Processor
 64-Bit ARM Processor
 
-As a computer engineer I think its essential that I know how design computers from the ground up. Where computing hardware engineering is today, I think that a 64-bit RISC design is essential because of my interest in embedded systems and the industry shift to reduced instruction set architecture computing systems. Here is my journey!
-## more context
+As a computer engineering student I wanted to follow my curiosity and get more hardware experience and dive into the details of digital design. I am building a compiler, processor, and sensor interface in C++, Python, and SystemVerilog.As I dive deeper and get more interested in hardware design from my Computer Organization and Advanced Digital Logic classs at Baylor University I want to apply my knowledge and enjoy the process. I think that a 64-bit RISC design is important in many hardware engineering applications. Here is my journey!
 
+<p align="center">
+  <img src="[https://github.com/user-attachments/assets/865e264c-a4e5-4c0f-a108-eae295db90f5](https://github.com/user-attachments/assets/90feb4e5-c42c-40f5-8b7f-29634da8ba94)" alt="Image Description" width="490" height="350">
+</p>
 ## Diagrams
 
 ## To Do
