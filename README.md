@@ -11,7 +11,7 @@ As a computer engineering student I wanted to follow my curiosity and get more h
 
 ### High Level Processor Design
 <p align="center">
-  <img align="middle" alt="Java" width="500px" height="250px"src="https://github.com/user-attachments/assets/40e807b7-9e4d-42a7-ab5e-c91ca441b811">
+  <img align="middle" alt="Java" width="600px" height="350px"src="https://github.com/user-attachments/assets/40e807b7-9e4d-42a7-ab5e-c91ca441b811">
 </p>
 
 
