@@ -6,7 +6,7 @@ As a computer engineering student I wanted to follow my curiosity and get more h
 # High-Level
 ### High Level Project Diagram
 <p align="center">
-  <img align="middle" alt="Java" width="750px" height="160px"src="https://github.com/user-attachments/assets/62a7d482-108c-4d8c-811f-72516f34132d">
+  <img align="middle" alt="Java" width="750px" height="500px"src="https://github.com/user-attachments/assets/62a7d482-108c-4d8c-811f-72516f34132d">
 </p>
 
 ### High Level Processor Design
