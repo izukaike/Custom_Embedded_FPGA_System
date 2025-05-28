@@ -14,6 +14,7 @@ As a computer engineering student I wanted to follow my curiosity and get more h
   <img align="middle" alt="Java" width="750x" height="350px"src="https://github.com/user-attachments/assets/40e807b7-9e4d-42a7-ab5e-c91ca441b811">
 </p>
 
+<img width="367" alt="image" src="https://github.com/user-attachments/assets/b0cd3858-162c-4fdf-b915-4fb3683076cf" />
 
 # Features
 - 64-Bit ARM Processor
